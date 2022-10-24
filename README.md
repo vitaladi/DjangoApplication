@@ -24,3 +24,4 @@ py manage.py runserver
 # Creation d'app
 py manage.py startapp members
 
+Copie du read.me
